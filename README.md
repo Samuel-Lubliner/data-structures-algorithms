@@ -11,3 +11,5 @@ Resources:
 [Repo with algorithms](https://github.com/egonSchiele/grokking_algorithms)
 
 [Ruby Data Structures and Algorithms](https://learn.firstdraft.com/lessons/330-ruby-data-structures-algorithms-intro)
+
+[Intro to algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
